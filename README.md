@@ -20,6 +20,7 @@ I'm transitioning into software development after 20+ years in higher education 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Other Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
