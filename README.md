@@ -27,6 +27,6 @@ I'm transitioning into software development after 20+ years in higher education 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-**Foreign Languages**
+**Foreign Languages**  
 ![French](https://img.shields.io/badge/Francais-3776AB?style=for-the-badge&logo=french&logoColor=white)
 ![Italian](https://img.shields.io/badge/Italiano-3776AB?style=for-the-badge&logo=italian&logoColor=white)
