@@ -2,10 +2,6 @@
 
 I'm transitioning into software development after 20+ years in higher education and biotech. Now specializing in Python, Java, and JavaScript, I've built projects ranging from console applications to full-stack web apps. I bring strong problem-solving, communication, and teamwork skills to every project.
 
-Je parle francais.
-
-Parlo italiano.
-
 **Core Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -30,3 +26,7 @@ Parlo italiano.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+**Foreign Languages**
+![French](https://img.shields.io/badge/Francais-3776AB?style=for-the-badge&logo=french&logoColor=white)
+![Italian](https://img.shields.io/badge/Italiano-3776AB?style=for-the-badge&logo=italian&logoColor=white)
