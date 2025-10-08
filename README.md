@@ -32,3 +32,7 @@ I'm transitioning into software development after 20+ years in higher education 
 **Foreign Languages**  
 ![French](https://img.shields.io/badge/Francais-0055A4?style=for-the-badge&logo=french&logoColor=white)
 ![Italian](https://img.shields.io/badge/Italiano-009246?style=for-the-badge&logo=italian&logoColor=white)
+
+**Education**  
+Certificate in Programming (Computer Science) (Expected December 2025) | Front Range Community College | Westminster, CO  
+Bachelor of Arts – English | University of Washington | Seattle, WA  
