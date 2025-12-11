@@ -34,5 +34,5 @@ I'm transitioning into software development after 20+ years in higher education 
 ![Italian](https://img.shields.io/badge/Italiano-009246?style=for-the-badge&logo=italian&logoColor=white)
 
 **Education**  
-Certificate in Programming (Computer Science) (Expected December 2025) | Front Range Community College | Westminster, CO  
+Certificate in Programming (Computer Science) (12/8/25) | Front Range Community College | Westminster, CO  
 Bachelor of Arts – English | University of Washington | Seattle, WA  
